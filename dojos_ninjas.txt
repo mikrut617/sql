@@ -1,1 +1,23 @@
-test
+-- INSERT INTO ninjas (first_name, last_name, age) 
+-- VALUES("Mr", "Miyagi", 118), ("John", "Kreese", 75), ("Johnny", "Lawrence", 51); 
+
+-- SELECT * FROM ninjas;
+
+-- INSERT INTO dojos (name, ninja_id)
+-- VALUES ("Cobra Kai", 1), ("Cobra Kai", 2);
+
+-- INSERT INTO dojos (name, ninja_id)
+-- VALUES ("Miyagi Do", 3), ("Miyagi Do", 4);
+
+-- INSERT INTO dojos (name, ninja_id)
+-- VALUES ("Kokushikan", 4);
+
+-- SELECT * FROM ninjas;
+-- SELECT * FROM dojos;
+
+-- DELETE FROM dojos WHERE id <> 0;
+
+-- SELECT * FROM dojos;
+
+-- INSERT INTO dojos (name, ninja_id)
+-- VALUES ("Tokon", 1), ("Cobra Pie", 2), ("Kano", 3), ("Kano", 4);
